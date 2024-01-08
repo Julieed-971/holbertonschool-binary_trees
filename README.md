@@ -47,5 +47,5 @@ Many warm thanks to all the Holberton School peers who helped and brought joy th
 
 ## Authors
 
-Julie Dedieu <julie.dedieu1@gmail.com
-Mathys Quaggio <mathys.quaggio@holbertonstudents.com>
+  Julie Dedieu <julie.dedieu1@gmail.com
+  Mathys Quaggio <mathys.quaggio@holbertonstudents.com>
